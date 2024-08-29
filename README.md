@@ -1,8 +1,7 @@
 ## Olá! Me chamo Nice
 
 - Atualmente curso Análise e Desenvolvimento de Sistemas
-- Meu foco atual é Python e análise de dados
-- Busco ser analista e desenvolvedora de software!
+- Meu foco atual é Python, análise de dados e desenvolvimento de software
 
 <div>
   <a href="https://beacon.ai/nicenix">
